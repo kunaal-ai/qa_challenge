@@ -35,6 +35,8 @@ Run command on Terminal "cucumber -t @execute"
 10.	Book read and time takes all selections tested
 11.	Rating tested for 1,3,5. Skipping 2 and 4 as considering falls under exhaustive testing rule.
 
+## Results
+![](Results.png)
 
 ## Author
 Kunaal Thanik
